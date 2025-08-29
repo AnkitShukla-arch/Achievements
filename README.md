@@ -57,7 +57,7 @@ I gained practical experience with tools such as:
 ## 📫 Connect with Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🐙 [GitHub](https://github.com/YourUsername)  
+- 🐙 [GitHub](https://github.com/AnkitShukla-arch)  
 - 📧 Email: monishukla727538@gmail.com  
 
 ---
