@@ -25,7 +25,7 @@ I gained practical experience with tools such as:
 
 
 
----
+
 
 ## 🏆 Certificates Earned  
 
@@ -39,7 +39,7 @@ I gained practical experience with tools such as:
 
 (All certificates are included and will be included in the `Acheivements/` folder.)  
 
----
+
 
 ## 🚀 Projects  
 
@@ -52,15 +52,15 @@ I gained practical experience with tools such as:
 - 🤖 **Machine Learning with Python Project**  
   Built classification and regression models to solve real problems.  
 
----
+
 
 ## 📫 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ankit-shukla-877705285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )  
 - 🐙 [GitHub](https://github.com/AnkitShukla-arch)  
 - 📧 Email: monishukla727538@gmail.com  
 
----
+
 
 ⭐ If you find this repository useful, feel free to **star** it!  
 
